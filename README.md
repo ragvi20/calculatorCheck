@@ -27,17 +27,17 @@ To run the Selenium tests, follow these steps:
 
 1. Clone this repository to your local machine:
 
-git clone https://github.com/ragvi20/calculatorCheck-tests.git
+git clone https://github.com/ragvi20/calculatorCheck_testcase.git
 
 2. Change your working directory to the project folder:
 
 cd calculatorCheck-tests
 
-3. Open the test script (`calculatorCheck.py`) and modify it according to specified requirements. * Update the URL and test scenarios if needed.
+3. Open the test script (`calculatorCheck_testcase.py`) and modify it according to specified requirements. * Update the URL and test scenarios if needed.
 
 4. Execute the test script using the following command:
 
-python calculatorCheck.py
+python calculatorCheck_testcase.py
 
 The Selenium tests will launch a browser window, interact with the Conversion Calculator, and verify its functionality.
 
